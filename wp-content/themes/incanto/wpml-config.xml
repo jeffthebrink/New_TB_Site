@@ -1,0 +1,113 @@
+<wpml-config>
+
+    <custom-types>
+        
+		<custom-type translate="1">un-portfolio</custom-type>
+        <custom-type translate="1">un-slider</custom-type>
+		
+    </custom-types> 
+	   
+    <taxonomies>
+       
+	   <taxonomy translate="1">un-portfolio-categories</taxonomy>
+	   
+    </taxonomies>  
+	  
+    <admin-texts>
+	
+        <key name="uncommons"> 
+            
+			<key name="opt-logo-dark" />
+			<key name="opt-logo-light" />
+			<key name="opt-favicon" />
+			<key name="opt-apple-touch-s" />
+			<key name="opt-apple-touch-m" />
+			<key name="opt-apple-touch-l" />
+			<key name="opt-primary-font" />
+			<key name="opt-secondary-font" />
+			<key name="opt-body" />
+			<key name="opt-links" />
+			<key name="opt-h1" />
+			<key name="opt-h2" />
+			<key name="opt-h3" />
+			<key name="opt-h4" />
+			<key name="opt-h5" />
+			<key name="opt-h6" />
+			<key name="opt-search-icon" />
+			<key name="opt-standard-page-intro-image" />
+			<key name="opt-standard-page-intro-title" />
+			<key name="opt-standard-page-intro-subtitle" />
+			<key name="opt-standard-page-intro-overlay" />
+			<key name="opt-blog-page-intro-image" />
+			<key name="opt-blog-page-intro-title" />
+			<key name="opt-blog-page-intro-subtitle" />
+			<key name="opt-blog-page-intro-overlay" />
+			<key name="opt-simple-post-intro-image" />
+			<key name="opt-simple-post-intro-title" />
+			<key name="opt-simple-post-intro-subtitle" />
+			<key name="opt-simple-post-intro-overlay" />
+			<key name="opt-portfolio-page-intro-image" />
+			<key name="opt-portfolio-page-intro-title" />
+			<key name="opt-portfolio-page-intro-subtitle" />
+			<key name="opt-portfolio-page-intro-overlay" />
+			<key name="opt-simple-project-intro-image" />
+			<key name="opt-simple-project-intro-title" />
+			<key name="opt-simple-project-intro-subtitle" />
+			<key name="opt-simple-project-intro-overlay" />
+			<key name="opt-archive-page-intro-image" />
+			<key name="opt-archive-page-intro-title" />
+			<key name="opt-archive-page-intro-subtitle" />
+			<key name="opt-archive-page-intro-overlay" />
+			<key name="opt-search-page-intro-image" />
+			<key name="opt-search-page-intro-title" />
+			<key name="opt-search-page-intro-subtitle" />
+			<key name="opt-search-page-intro-overlay" />
+			<key name="opt-error-page-intro-image" />
+			<key name="opt-error-page-intro-title" />
+			<key name="opt-error-page-intro-subtitle" />
+			<key name="opt-error-page-intro-overlay" />
+			<key name="opt-attachment-page-intro-image" />
+			<key name="opt-attachment-page-intro-title" />
+			<key name="opt-attachment-page-intro-subtitle" />
+			<key name="opt-attachment-page-intro-overlay" />
+			<key name="opt-footer-widgets" />
+			<key name="opt-footer-copy" />
+			<key name="opt-shop-columns" />
+			<key name="opt-shop-limit" />
+			<key name="opt-shop-head-image" />
+			<key name="opt-shop-head-title" />
+			<key name="opt-shop-head-subtitle" />
+			<key name="opt-shop-head-overlay" />
+			<key name="opt-adv-page-loading" />
+			<key name="opt-adv-exc-lenght" />
+			<key name="opt-adv-unCommons-hide" />
+			<key name="opt-adv-error-page-content" />
+			<key name="opt-adv-custom-head" />
+			<key name="opt-adv-custom-foot" />
+			<key name="opt-adv-custom-css" />
+			<key name="thumb_shape" />
+			<key name="project_head_enable" />
+			<key name="project_head_image" />
+			<key name="project_head_overlay" />
+			<key name="project_related" />
+			<key name="page_head_enable" />
+			<key name="page_head_image" />
+			<key name="page_head_overlay" />
+			<key name="page_sidebar" />
+			<key name="page_vc_onepage" />
+			<key name="page_blog_masonry" />
+			<key name="page_port_type" />
+			<key name="page_port_overlay" />
+			<key name="page_port_limit" />
+			<key name="page_port_filters" />
+			<key name="slides" />
+			<key name="project_head_title" />
+			<key name="project_head_subtitle" />
+			<key name="page_head_title" />
+			<key name="page_head_subtitle" />
+			
+        </key>
+		
+    </admin-texts>    
+
+</wpml-config>
